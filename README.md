@@ -1,5 +1,5 @@
 ﻿# DrumDefenderCAD V2
-Contributers: Rebecca, Vaishnavi, John, Tiansuwang
+Contributers: Rebecca, Vaishnavi, John, Tiansu
 
 A 3 lb drum spinner bot made for the CMU combat robotics team.
 
